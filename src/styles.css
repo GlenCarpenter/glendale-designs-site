@@ -357,6 +357,9 @@ body {
     .headerIconDescription {
         display: none;
     }
+    #contactUs {
+        min-width: 0;
+    }
     .mobileMenuHamburger {
         display: block;
         color: gray;
