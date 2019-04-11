@@ -60,6 +60,11 @@ body {
     background-color: #040404;
 }
 
+/* prevent text wrapping */
+#contactUs {
+    min-width: 135px;
+}
+
 /* Secondary header */
 .secondaryHeaderContainer {
     display: flex;
